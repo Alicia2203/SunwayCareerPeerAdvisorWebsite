@@ -1,0 +1,11 @@
+.accordion-button::after {
+  width: auto;
+  height: auto;
+  content: "+";
+  font-size: 40px;
+  background-image: none;
+  font-weight: 100;
+  color: #e5941b;
+  transform: translateY(-4px);
+}
+
