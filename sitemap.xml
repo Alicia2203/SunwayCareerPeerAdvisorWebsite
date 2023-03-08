@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/about.html</loc>
+        <loc>/about.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/contacts.html</loc>
+        <loc>/contacts.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/events.html</loc>
+        <loc>/events.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/Join us.html</loc>
+        <loc>/Join us.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/Resource.html</loc>
+        <loc>/Resource.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/Resource - Interview.html</loc>
+        <loc>/Resource - Interview.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/Resource - Job Search.html</loc>
+        <loc>/Resource - Job Search.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/Resource - Resume Cover Letter.html</loc>
+        <loc>/Resource - Resume Cover Letter.html</loc>
     </url>
     <url>
-        <loc>https://sunwaycareerpeeradvisor.github.io/SunwayCPA/services.html</loc>
+        <loc>/services.html</loc>
     </url>
 </urlset>

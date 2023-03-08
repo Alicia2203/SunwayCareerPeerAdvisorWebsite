@@ -1,7 +1,5 @@
-# Sunway Career Peer Advisor Website
+# SunwayCPA
 This repository stores Sunway Career Peer Advisor(CPA) official website.
-
-Website Link: https://alicia2203.github.io/SunwayCareerPeerAdvisorWebsite/ <br/>
 
 Creator of Website:<br/>
 Alicia Chong <br/>
